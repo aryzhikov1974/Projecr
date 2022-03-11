@@ -1,2 +1,2 @@
-# Projecr
+# Project
 First Project
